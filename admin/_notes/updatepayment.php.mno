@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_updpaym" value="name:id;datatype:int,name:paymentId;datatype:string,name:memberId;datatype:int,name:fName;datatype:string,name:lName;datatype:string,name:amount;datatype:int,name:phone;datatype:string,name:payment_date;datatype:date" />
+</info>

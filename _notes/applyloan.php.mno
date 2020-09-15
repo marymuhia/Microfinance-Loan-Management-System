@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lontype" value="name:id;datatype:int,name:loanType;datatype:string,name:description;datatype:string,name:creationDate;datatype:timestamp" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:loanType;datatype:string,name:description;datatype:string,name:creationDate;datatype:timestamp" />
+</info>

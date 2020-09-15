@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_totalmem" value="name:id;datatype:int,name:memberId;datatype:int,name:fName;datatype:string,name:lName;datatype:string,name:gender;datatype:string,name:phone;datatype:string,name:occupation;datatype:string,name:email;datatype:string,name:password;datatype:string,name:address;datatype:string,name:county;datatype:string,name:district;datatype:string,name:location;datatype:string,name:photo;datatype:string,name:dob;datatype:date,name:regDate;datatype:date" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:memberId;datatype:int,name:fName;datatype:string,name:lName;datatype:string,name:gender;datatype:string,name:phone;datatype:string,name:occupation;datatype:string,name:email;datatype:string,name:password;datatype:string,name:address;datatype:string,name:county;datatype:string,name:district;datatype:string,name:location;datatype:string,name:photo;datatype:string,name:dob;datatype:date,name:regDate;datatype:date" />
+	<infoitem key="UD_Recordset2" value="name:id;datatype:int,name:loanType;datatype:string,name:description;datatype:string,name:creationDate;datatype:timestamp" />
+</info>

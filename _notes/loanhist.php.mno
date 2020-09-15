@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_DetailRS1" value="name:loanId;datatype:int,name:memberId;datatype:int,name:loanType;datatype:string,name:amount;datatype:int,name:payment_term;datatype:int,name:total_paid;datatype:int,name:emi_per_month;datatype:int,name:due;datatype:date,name:status;datatype:string,name:adminRemark;datatype:string" />
+	<infoitem key="UD_LiveData_params" value="1" />
+	<infoitem key="UD_LiveData_param0" value="recordID=1" />
+</info>

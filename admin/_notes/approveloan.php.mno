@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:loanId;datatype:int,name:memberId;datatype:int,name:loanType;datatype:string,name:income;datatype:int,name:amount;datatype:int,name:intereset;datatype:string,name:payment_term;datatype:int,name:total_paid;datatype:int,name:emi_per_month;datatype:int,name:bankStatementPhoto;datatype:string,name:security;datatype:string,name:posting_date;datatype:date,name:status;datatype:string,name:adminRemark;datatype:string,name:adminRemarkDate;datatype:date" />
+</info>

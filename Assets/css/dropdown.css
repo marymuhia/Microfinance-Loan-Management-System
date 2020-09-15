@@ -1,0 +1,40 @@
+table {
+margin:75px;
+padding-top:25px;
+border:0px solid #000000;
+border-radius: 0px 0px 0px 0px;
+margin-top:100px;
+}
+.dropdown-btn {
+  padding: 0px 8px 13px 10px;
+  text-decoration: none;
+  font-size: 20px;
+  color:#000;
+  display: block;
+  border: none;
+  background:#3CF;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+  padding-left:32px;
+}
+.dropdown-container {
+  display: none;
+  background-color:#3CF;
+  padding-left: 30px;
+  padding-top:0px;
+}
+
+/* Optional: Style the caret down icon */
+.fa-caret-down {
+  float:right;
+  padding-right:100px;
+}
+.active {
+  background-color:#3CF;
+  color: white;
+}
+.sidebar a:hover, .dropdown-btn:hover {
+  color:white;
+  }
