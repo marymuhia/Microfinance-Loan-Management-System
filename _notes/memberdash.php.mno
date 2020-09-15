@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_updpass" value="name:password;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:memberId;datatype:int,name:password;datatype:string" />
+</info>
